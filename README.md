@@ -1,2 +1,2 @@
-# alx--basics
+# alx-basics
 c programming
